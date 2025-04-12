@@ -1,0 +1,15 @@
+Md Uddin – Research Summary
+Topic: Marriott Hotels in Singapore and Competitors
+
+Marriott in Singapore:
+Marriott has hotels like JW Marriott South Beach, Tang Plaza, and The St. Regis. Most use mobile check-in, but don’t offer advanced AI features.
+
+Hilton and Accor Comparison:
+Hilton uses a robot concierge (Connie), chat support, and smart room controls.
+Accor uses AI for pricing, room settings, and voice automation in some hotels.
+
+Conclusion:
+Marriott lags behind in AI. It should add voice assistants, kiosks, and service bots.
+
+Source:
+NetSuite. (n.d.). AI in hospitality: Use cases, benefits, and future trends. https://www.netsuite.com/portal/resource/articles/business-strategy/ai-hospitality.shtml
