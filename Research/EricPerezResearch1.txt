@@ -1,0 +1,14 @@
+Eric Perez – Research Summary
+Topic: Chatbots, Robots, and Team Tools
+
+Chatbots:
+Used for FAQs, booking, and guest requests. Available 24/7 and reduce front desk work.
+
+Service Robots:
+Hotels like YOTEL use robots to deliver items. This is fast and contactless.
+
+Tools We Use:
+Set up GitHub and Discord for project work.
+
+Source:
+NetSuite. (n.d.). AI in hospitality. https://www.netsuite.com/portal/resource/articles/business-strategy/ai-hospitality.shtml
